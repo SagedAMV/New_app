@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- جسم المحفظة -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M32,36 h40 a8,8 0 0 1 8,8 v28 a8,8 0 0 1 -8,8 h-40 a8,8 0 0 1 -8,-8 v-28 a8,8 0 0 1 8,-8 z" />
+    <!-- غطاء المحفظة -->
+    <path android:fillColor="#E0DCFF"
+        android:pathData="M32,36 h14 l10,11 h24 v-3 a8,8 0 0 0 -8,-8 h-40 z" />
+    <!-- زر الإغلاق -->
+    <path android:fillColor="#6C5CE7"
+        android:pathData="M78,54 m-5,0 a5,5 0 1 0 10,0 a5,5 0 1 0 -10,0" />
+    <!-- خط وسط المحفظة -->
+    <path android:strokeColor="#6C5CE7" android:strokeWidth="2.5"
+        android:pathData="M32,62 h40" />
+</vector>
